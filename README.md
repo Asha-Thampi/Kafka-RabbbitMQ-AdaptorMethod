@@ -1,0 +1,1 @@
+# Kafka-RabbbitMQ-AdaptorMethod
